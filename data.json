@@ -1,0 +1,12 @@
+[
+{"id":"react","name":"React","category":"Frontend","description":"A component-based library for building user interfaces.","icon":"⚛️","rating":4.9,"difficulty":"Beginner-Friendly","badge":"Popular"},
+{"id":"node","name":"Node.js","category":"Backend","description":"JavaScript runtime for fast, scalable server applications.","icon":"🟢","rating":4.8,"difficulty":"Intermediate","badge":"Essential"},
+{"id":"typescript","name":"TypeScript","category":"Language","description":"JavaScript with static types for reliable applications.","icon":"🔷","rating":4.8,"difficulty":"Intermediate","badge":"Popular"},
+{"id":"mongodb","name":"MongoDB","category":"Database","description":"Flexible document database for modern applications.","icon":"🍃","rating":4.7,"difficulty":"Beginner-Friendly","badge":"Fast"},
+{"id":"tailwind","name":"Tailwind CSS","category":"Styling","description":"Utility-first CSS framework for custom designs.","icon":"🎨","rating":4.8,"difficulty":"Beginner-Friendly","badge":"Trending"},
+{"id":"docker","name":"Docker","category":"DevOps","description":"Package applications into portable containers.","icon":"🐳","rating":4.7,"difficulty":"Advanced","badge":"Containers"},
+{"id":"git","name":"Git","category":"Tools","description":"Track changes and collaborate on source code.","icon":"🌿","rating":4.9,"difficulty":"Beginner-Friendly","badge":"Essential"},
+{"id":"python","name":"Python","category":"Language","description":"Readable language for web, data, and AI development.","icon":"🐍","rating":4.9,"difficulty":"Beginner-Friendly","badge":"Popular"},
+{"id":"postgres","name":"PostgreSQL","category":"Database","description":"Powerful open-source relational database system.","icon":"🐘","rating":4.9,"difficulty":"Intermediate","badge":"Top SQL"},
+{"id":"next","name":"Next.js","category":"Frontend","description":"React framework for production-ready web apps.","icon":"▲","rating":4.8,"difficulty":"Intermediate","badge":"Modern"}
+]
